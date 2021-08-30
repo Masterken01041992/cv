@@ -1,0 +1,93 @@
+body {
+    margin: 0px;
+}
+
+.top-container  {
+    background-color: #F1E9E5;
+    border: solid 10px;
+    padding: 20px;
+    height: 600px;
+    
+    
+  
+}
+
+.middle-container {
+    background-color: aquamarine;
+    border: outset 10px goldenrod;
+    border-radius: 10px;
+    height: 600px;
+}
+
+.bottom-container {
+    /* background-color: blueviolet; */
+    border: 10px dashed #7FC8A9 ;
+    border-radius: 10px;
+    /* border: peru; */
+    height: 600px;
+    
+    
+}
+
+.cloud {
+    display: block;
+    position: relative;
+    margin-left: 150px;    
+    /* border-style: solid; */
+    /* border-color: purple; */
+    border-radius: 10px;
+    width: 250px;
+    height: 250px; 
+          
+       
+}
+
+.mountain {
+    display: block;
+    position: relative;
+    margin-left: 400px;
+    /* border-style: solid; */
+    /* border-color: purple; */
+    border-radius: 10px; */
+    width: 250px;
+    height: 250px;
+           
+}
+.myname span,.myname {
+    /* background-color: turquoise; */
+    color: teal;
+    display: block;
+    text-align: center;
+    writing-mode: horizontal-tb;
+    direction: ltr;
+    font-size: 150%;
+    font-weight: bolder;
+    text-shadow: yellow 2px 2px;
+    font-family: "Apple Chancery";
+    position: relative;
+    margin: auto;
+    rotate: 0deg;
+
+}
+
+.title span,.title {
+    color: brown;
+    display: block;
+    text-align: center;
+    writing-mode: horizontal-tb;
+    direction: ltr;
+    font-size: 100%;
+    font-weight: 400;
+    /* font-style: oblique 15deg; */
+    text-shadow: violet 1.2px 1.2px;
+    font-family: "Permanent Marker";
+    position: relative;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    rotate: 0deg;
+    
+}
+
+
+
